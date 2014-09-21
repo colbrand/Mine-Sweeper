@@ -5,7 +5,7 @@ import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 
 /**
- *@version 1.0.0
+ *@version 1.0.1
  * @author Colbrand
  */
 public class MineMain {

@@ -45,7 +45,7 @@ public class MineFrame extends JFrame {
         windowIcon = new ImageIcon(imageURL, null).getImage();
 
         setIconImage(windowIcon);
-        setTitle("Mine Sweeper");
+        setTitle("Mine Sweeper by Erdem Bircan");
         setLocationByPlatform(true);
         setResizable(false);
         setSize(DEFAULT_WIDTH, DEFAULT_HEIGHT);
